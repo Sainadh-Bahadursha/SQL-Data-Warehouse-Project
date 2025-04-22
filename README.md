@@ -5,8 +5,7 @@ This end-to-end portfolio project demonstrates how to build a modern data wareho
 
 ## Data Architecture – Medallion Layers
 
-
-![architecture](https://github.com/user-attachments/assets/cd50a763-0747-479c-9075-eb118b05fe0f)
+![architecture](https://github.com/user-attachments/assets/80ef95db-e901-401d-9c0d-b5e70f63827f)
 
 ### Bronze Layer
 - Ingests **raw data** from CSVs (ERP & CRM systems).
@@ -94,3 +93,9 @@ data-warehouse-project/
 **Sainadh Bahadursha**  
 M.Sc in AI & ML | Data Science Enthusiast | Former Assistant Professor  
 🔗 [LinkedIn](https://www.linkedin.com/in/sainadh-bahadursha-67b121171/) | 💻 [GitHub](https://github.com/Sainadh-Bahadursha)
+
+---
+
+## Acknowledgements
+This project was inspired by the SQL Data Warehouse and Analytics course by (Data with Baraa)[https://www.youtube.com/watch?v=9GVqKuTVANE] on YouTube.
+Big thanks for making such quality content available to learners!
