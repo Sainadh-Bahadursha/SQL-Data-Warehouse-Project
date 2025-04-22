@@ -91,11 +91,11 @@ data-warehouse-project/
 ## 👨‍💻 Author
 
 **Sainadh Bahadursha**  
-M.Sc in AI & ML | Data Science Enthusiast | Former Assistant Professor  
-🔗 [LinkedIn](https://www.linkedin.com/in/sainadh-bahadursha-67b121171/) | 💻 [GitHub](https://github.com/Sainadh-Bahadursha)
+M.Sc in AI & ML | Data Science Enthusiast | Former Assistant Professor
+[LinkedIn](https://www.linkedin.com/in/sainadh-bahadursha-67b121171/) | [GitHub](https://github.com/Sainadh-Bahadursha)
 
 ---
 
 ## Acknowledgements
-This project was inspired by the SQL Data Warehouse and Analytics course by (Data with Baraa)[https://www.youtube.com/watch?v=9GVqKuTVANE] on YouTube.
+This project was inspired by the SQL Data Warehouse and Analytics course by [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE) on YouTube.
 Big thanks for making such quality content available to learners!
